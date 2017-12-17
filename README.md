@@ -1,1 +1,2 @@
 # Airplane-Crash-Data-Analysis-
+The "Airplane crash data analysis" analyses the data of airplane crashes over 100 years beginning from 1908 to 2009.It is interesting to observe the pattern and reason for the airplane crashes.As air transportation is the basic medium nowadays,it is important to avoid the future crashes. By exploring the past patterns we can find ways to overcome crashes that might happen in the future
